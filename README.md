@@ -19,4 +19,4 @@ A partir de um código em linguagem C foi feita a analógia do código para a li
     return 0;
 
 ### *Código ASSEMBLY*
-[Assembly Code]([https://github.com/Melissa-Francielle/assembly_soma_de_int/soma_de_inteiros.asm](https://github.com/Melissa-Francielle/assembly_soma_de_int/blob/main/soma_de_inteiros.asm)https://github.com/Melissa-Francielle/assembly_soma_de_int/blob/main/soma_de_inteiros.asm)
+[Assembly Code](https://github.com/Melissa-Francielle/assembly_soma_de_int/blob/main/soma_de_inteiros.asm)
