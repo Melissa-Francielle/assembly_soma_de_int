@@ -17,3 +17,6 @@ A partir de um código em linguagem C foi feita a analógia do código para a li
     printf("A soma de %d e %d é: %d\n", num1, num2, resultado);
 
     return 0;
+
+### *Código ASSEMBLY*
+[Assembly Code: ](https://github.com/Melissa-Francielle/assembly_soma_de_int/soma_de_inteiros.asm)
